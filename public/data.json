@@ -1,0 +1,37 @@
+[
+    {
+        "id":1,
+        "name": "Buzo canguro negro",
+        "size": "Talle: XL",
+        "price": 25,
+        "img": "http://d3ugyf2ht6aenh.cloudfront.net/stores/001/704/127/products/sin-titulo-9011-19ce511845b414abd016637053887337-640-0.webp",
+        "quanty":1
+    },
+
+    {
+        "id":2,
+        "name": "Campera de plumas",
+        "size": "Talle: S",
+        "price": 50,
+        "img": "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/005/896/products/productos-tamano-ok-101-9d720fc342ef8522cd15816172245682-1024-1024.png",
+        "quanty":1
+    },
+
+    {
+        "id":3,
+        "name": "Botas cortas de cuero en suela",
+        "size": "Talle: 40",
+        "price": 10,
+        "img": "https://calzadosbatistella.com.ar/shop/82966-superlarge_default/botas-cortas-bajas-de-cuero-en-suela-con-cierres.jpg",
+        "quanty":1
+    },
+
+    {
+        "id":4,
+        "name": "Pantalon de gabardina negro",
+        "size": "Talle: 50",
+        "price": 62,
+        "img": "http://d3ugyf2ht6aenh.cloudfront.net/stores/001/218/661/products/25215-13_-31-8ef9dd683b6f79da1d16536689239461-640-0.webp",
+        "quanty":1
+    }
+]
